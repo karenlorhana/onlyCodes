@@ -1,0 +1,6 @@
+valorA=int(input("DIGITE O VALOR A:\n"))
+valorB=int(input("DIGITE O VALOR B:\n"))
+valorC=int(input("DIGITE O VALOR C:\n"))
+valorD=int(input("DIGITE O VALOR D:\n"))
+diferenca=(valorA*valorB)-(valorC*valorD)
+print("DIFERENCA =",diferenca)
