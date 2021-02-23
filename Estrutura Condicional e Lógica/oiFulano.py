@@ -1,2 +1,2 @@
 nome=input()
-print("Olah,",nome+"!") 
+print("Olah,",nome+"!")
