@@ -2,8 +2,8 @@
     Developed by Karen Lorhana
 '''
 
-primeiraDose = int(input("ano primeira dose: "))
-periodo = int(input("periodo ano: "))
+primeiraDose = int(input())
+periodo = int(input())
 
 
 for i in range (1):
