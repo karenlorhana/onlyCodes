@@ -1,3 +1,6 @@
+''' 
+    Developed by Karen Lorhana
+'''
 n = int(input())
 while (n != 0):
     if(n == 1):
