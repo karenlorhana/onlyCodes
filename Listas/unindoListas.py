@@ -1,3 +1,6 @@
+'''
+    developed by Karen Lorhana
+'''
 l1 =[]
 l2 =[]
 qtdLista1 = int(input())
