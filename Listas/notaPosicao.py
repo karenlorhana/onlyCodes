@@ -1,3 +1,6 @@
+'''
+    developed by Karen Lorhana
+'''
 notas = []
 media = 0
 qtdNotas = int(input())
