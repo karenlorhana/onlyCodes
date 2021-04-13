@@ -1,10 +1,11 @@
-n = int(input())
+lista = []
 qtdQuebrados = 0
+bandeijas = oint(input())
 
-for i in range(n):
-    x = input().split(" ")
+for i in range(bandeijas):
+    lista = input().split(" ")
     
-    if(int(x[0]) > int(x[1])):
-        qtdQuebrados += int(x[1])
+    if(int(lista[0]) > int(lista[1])):
+        qtdQuebrados += int(lista[1])
 
 print(qtdQuebrados)
