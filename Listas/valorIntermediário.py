@@ -1,7 +1,7 @@
 lista = []
 
 for i in range(3):
-    numero = int(input("valor: "))
+    numero = int(input())
     lista.append(numero)
 
 if lista[0] > lista[1] and lista[0] > lista[2]:
