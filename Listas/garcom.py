@@ -1,6 +1,6 @@
 lista = []
 qtdQuebrados = 0
-bandeijas = oint(input())
+bandeijas = int(input())
 
 for i in range(bandeijas):
     lista = input().split(" ")
