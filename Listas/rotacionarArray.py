@@ -6,7 +6,7 @@ qtdInteiros = int(input())
 
 for i in range(qtdInteiros):
     numeros = int(input())
-    lista.app end(numeros)
+    lista.append(numeros)
 
 deslocamentos = int(input())
 
