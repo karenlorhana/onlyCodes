@@ -4,15 +4,13 @@
 lista = []
 qtdInteiros = int(input())
 
-for i in range(qtdInteiros):
-    numeros = int(input())
-    lista.append(numeros)
+for j in range(qtdInteiros):
+    lista.append(int(input()))
 
 deslocamentos = int(input())
 
-for i in range(deslocamentos, qtdInteiros):
-    print(lista[i])
-    
-for j in range(qtdInteiros):
-    print(lista[j])
-
+for i in range(qtdInteiros):
+    if i + deslocamentos < qtdInteiros:
+        print(lista[i+deslocamentos])
+    else:
+        print(lista[(i+deslocamentos)-qtdInteiros]) 
