@@ -1,3 +1,7 @@
+'''
+    developed by Karen Lorhana
+'''
+
 import os
 
 saldo = 0
