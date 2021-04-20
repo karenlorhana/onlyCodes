@@ -70,7 +70,7 @@ while True:
     
     
     elif opcao == "5":
-        #os.system('clear')
+        os.system('clear')
         print("Você sairá do banco agora!")
         break
   
