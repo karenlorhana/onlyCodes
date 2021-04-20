@@ -19,6 +19,5 @@ for i in range(1,qtdDoces+1):
     if precoUnitario < maisBarato:
         maisBarato = precoUnitario
         indice = i
-    #Produto mais barato: Doce 2, R$21.02/kg
 print("Produto mais barato: Doce ",indice, ", R$", maisBarato,"/kg")
 print("Foram comprados ",doces, "g de doce por R$", preco)
