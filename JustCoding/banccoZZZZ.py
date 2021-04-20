@@ -3,7 +3,6 @@
 '''
 
 import os
-
 saldo = 0
 
 while True:

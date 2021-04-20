@@ -1,7 +1,6 @@
 '''
     developed by Karen Lorhana
 '''
-
 qtdDoces = int(input("Informe a quantidade de doces comprados: "))
 doces = 0
 preco = 0
