@@ -13,10 +13,10 @@ for i in range(qtdLinha):
 for i in range(qtdColuna):
     linha = []
     for j in range(qtdLinha):
-        linha.append(matriz[j][i])
+        linha.append(matrizUm[j][i])
     matrizDois.append(linha)
 
 for i in range(qtdColuna):
     for j in range(qtdLinha):
-        print(matriz2[i][j], end = ' ')
+        print(matrizDois[i][j], end = ' ')
     print()
