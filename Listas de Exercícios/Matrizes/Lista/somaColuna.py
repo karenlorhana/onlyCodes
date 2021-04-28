@@ -1,11 +1,11 @@
 '''
-Escreva um programa que receba os valores de uma matriz 3x4 do usuário e imprima uma lista das somas dos
-valores da matriz por coluna.
+    developed by Karen Lorhana
 '''
 
 matriz = []
 soma = [[], [],[],[]]
 qtd = input().split()
+lin = int(qtd[0])
 col = int(qtd[1])
 soma0 = 0
 soma1 = 0
