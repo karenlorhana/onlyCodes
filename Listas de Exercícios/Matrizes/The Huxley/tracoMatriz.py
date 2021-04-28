@@ -4,7 +4,7 @@ soma = 0
 
 for i in range(qtd):
     linha = input().split()
-    linha = list(map(float,linha))
+    linha = list(map(int,linha))
     matriz.append(linha)
 
 
