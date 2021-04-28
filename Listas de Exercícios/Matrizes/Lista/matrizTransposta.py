@@ -4,7 +4,6 @@
 
 matrizUm = []
 matrizDois = []
-
 qtd = input().split()
 qtdLinha = int(qtd[0])
 qtdColuna = int(qtd[1])
