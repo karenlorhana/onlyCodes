@@ -1,3 +1,7 @@
+'''
+    developed by Karen Lorhana
+'''
+
 matrizUm = []
 matrizDois = []
 
