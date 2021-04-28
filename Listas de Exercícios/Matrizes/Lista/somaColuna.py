@@ -3,7 +3,7 @@
 '''
 
 matriz = []
-soma = [[], [],[],[]]
+soma = [[],[],[],[]]
 qtd = input().split()
 lin = int(qtd[0])
 col = int(qtd[1])
